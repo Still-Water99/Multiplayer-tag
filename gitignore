@@ -1,0 +1,29 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.a
+server
+client
+
+# Stats log (generated at runtime)
+stats.csv
+stats.png
+
+
+# Build directories
+build/
+bin/
+
+# IDE / editor files
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
